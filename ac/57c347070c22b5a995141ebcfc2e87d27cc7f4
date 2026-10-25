@@ -1,0 +1,18 @@
+LICENSE.md
+  h_a81f40a4744030 1-14
+README.md
+  h_a81f40a4744030 1-67
+apostila/AI_FOR_EVERYONE_APOSTILA.md
+  h_a81f40a4744030 1-1264
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "ac57c347070c22b5a995141ebcfc2e87d27cc7f4",
+  "prompts": {},
+  "humans": {
+    "h_a81f40a4744030": {
+      "author": "Jay Benedicto <soamazing@gmail.com>"
+    }
+  }
+}
