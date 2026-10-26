@@ -1,67 +1,75 @@
-# 🤖 Inteligência Artificial para Todas as Pessoas
+# 📚 IA para Todos — Apostilas em português
 
-Uma **apostila gratuita, em português e em linguagem simples**, criada para estudar os fundamentos de IA a partir do curso **[AI for Everyone](https://www.deeplearning.ai/courses/ai-for-everyone)**, de **Andrew Ng (DeepLearning.AI)**.
+**Três cursos, uma trilha de aprendizagem.** Materiais didáticos independentes inspirados em cursos de **Andrew Ng / DeepLearning.AI**, em português simples, com comparações, analogias, exercícios e projetos que você pode aplicar no trabalho e no cotidiano.
 
-Aqui a ideia é aprender de verdade, sem exigir matemática avançada ou experiência em programação. O conteúdo usa **analogias do cotidiano**, exemplos de produtos digitais, exercícios com gabarito e um projeto final que pode ser discutido por qualquer equipe.
+> **Aviso importante:** este repositório é um trabalho educacional **não oficial**, sem vínculo, aprovação ou patrocínio da DeepLearning.AI ou de Andrew Ng. Os materiais são uma elaboração didática original; os vídeos, slides e transcrições dos cursos não estão aqui publicados.
 
-> **Importante:** este é um material **independente e não oficial** de estudo. Não substitui as aulas do curso e não tem afiliação ou aprovação da DeepLearning.AI.
+## 📖 Escolha uma apostila
 
-## 📚 Comece a estudar
+| Volume | Referência oficial | Para aprender | Ler online | PDF |
+|---|---|---|---|---|
+| **01 — AI for Everyone** | [Curso](https://www.deeplearning.ai/courses/ai-for-everyone) | Fundamentos de IA, machine learning, dados, projetos e empresas | [Abrir Markdown](apostilas/01-ai-for-everyone/AI_FOR_EVERYONE_APOSTILA.md) | [Baixar PDF](apostilas/01-ai-for-everyone/AI_FOR_EVERYONE_APOSTILA.pdf) |
+| **02 — AI Prompting for Everyone** | [Curso](https://www.deeplearning.ai/courses/ai-prompting-for-everyone) | Contexto, pesquisa, prompting, crítica, escrita, imagens, dados e apps | [Abrir Markdown](apostilas/02-ai-prompting-for-everyone/AI_PROMPTING_FOR_EVERYONE_APOSTILA.md) | [Baixar PDF](apostilas/02-ai-prompting-for-everyone/AI_PROMPTING_FOR_EVERYONE_APOSTILA.pdf) |
+| **03 — Generative AI for Everyone** | [Curso](https://www.deeplearning.ai/courses/generative-ai-for-everyone) | IA generativa, LLMs, RAG, fine-tuning, produtos e IA responsável | [Abrir Markdown](apostilas/03-generative-ai-for-everyone/GENERATIVE_AI_FOR_EVERYONE_APOSTILA.md) | [Baixar PDF](apostilas/03-generative-ai-for-everyone/GENERATIVE_AI_FOR_EVERYONE_APOSTILA.pdf) |
 
-### [➡️ Abrir a apostila completa (Markdown)](apostila/AI_FOR_EVERYONE_APOSTILA.md)
+## 🧭 Por onde começar?
 
-### [📄 Baixar a apostila em PDF](apostila/AI_FOR_EVERYONE_APOSTILA.pdf)
+**Iniciante absoluto?** Siga **01 → 03 → 02** para primeiro compreender IA, depois entender IA generativa e, por último, praticar técnicas de prompting mais abrangentes. Se você já sabe os fundamentos e quer aprender a usar as ferramentas imediatamente, pode começar pelo **02**.
 
-O Markdown é ótimo para ler diretamente no GitHub; o PDF é melhor para salvar, compartilhar ou estudar offline.
+### O que você encontra no Volume 03
 
-## 🧭 O que você vai aprender
+- **Três semanas** organizadas conforme o curso *Generative AI for Everyone*.
+- Explicações em linguagem simples sobre LLMs, geração de texto e imagens, escrita, leitura, chat, limitações e erros.
+- Conceitos de produto e engenharia: protótipos, avaliação, tokens, custos, **RAG, fine-tuning**, escolha de modelos, ferramentas e agentes.
+- Impactos no trabalho, análise de tarefas, automação vs. aumento de capacidade, ética e governança.
+- **12 experiências de laboratório**, um projeto final de assistente com documentos autorizados, **30 questões com gabarito comentado** e glossário.
 
-| Etapa | Conteúdo | Na prática, você vai conseguir... |
-| --- | --- | --- |
-| **Semana 1** | O que é IA; machine learning; dados; redes neurais; limites | Explicar A → B, identificar dados úteis e diferenciar ML de ciência de dados |
-| **Semana 2** | Fluxo de projetos; escolha de oportunidades; testes; avaliação | Transformar uma ideia vaga em uma tarefa mensurável e um piloto viável |
-| **Semana 3** | Produtos de IA; papéis de equipes; transformação organizacional | Entender como várias peças trabalham juntas e como introduzir IA na empresa |
-| **Semana 4** | Limitações, viés, ataques, impactos sociais e empregos | Identificar riscos e discutir uso responsável da tecnologia |
+## 👥 Trilha sugerida para equipes
 
-Além das quatro semanas, você encontrará **glossário, 24 perguntas de revisão, gabarito comentado e modelo de projeto final**.
+| Encontro | Objetivo | Prática sugerida |
+|---|---|---|
+| 1 | Desmistificar IA | Explicar a diferença entre classificação e geração |
+| 2 | Produzir respostas melhores | Comparar prompts sem e com contexto |
+| 3 | Conhecer aplicações de IA generativa | Desenhar um fluxo simples de RAG |
+| 4 | Pensar como criador de produto | Criar testes, estimar custos e riscos |
+| 5 | Refletir sobre o trabalho | Mapear tarefas para apoio, automação ou revisão humana |
+| 6 | Compartilhar aprendizados | Apresentar o projeto final e critérios de sucesso |
 
-## 👥 Como usar com seu time
+Um encontro de **30–45 minutos** por tema já permite uma conversa útil. Prefira pequenos experimentos com dados fictícios à apresentação de conceitos sem prática.
 
-1. Definam uma semana de leitura por encontro.
-2. Cada participante traga uma analogia ou exemplo próprio.
-3. Discutam os exercícios antes de abrir o gabarito.
-4. No último encontro, preencham o **projeto final** com uma tarefa real.
-5. Avaliem a proposta sob três ângulos: **viabilidade técnica, valor de negócio e responsabilidade ética**.
-
-**Sugestão de dinâmica:** encontros de 30 a 45 minutos. Cada pessoa pode ler no seu ritmo antes da conversa.
-
-## 📁 Estrutura do repositório
+## 🗂️ Organização
 
 ```text
 .
 ├── README.md
 ├── LICENSE.md
-└── apostila/
-    ├── AI_FOR_EVERYONE_APOSTILA.md
-    └── AI_FOR_EVERYONE_APOSTILA.pdf
+└── apostilas/
+    ├── 01-ai-for-everyone/
+    │   ├── AI_FOR_EVERYONE_APOSTILA.md
+    │   └── AI_FOR_EVERYONE_APOSTILA.pdf
+    ├── 02-ai-prompting-for-everyone/
+    │   ├── AI_PROMPTING_FOR_EVERYONE_APOSTILA.md
+    │   └── AI_PROMPTING_FOR_EVERYONE_APOSTILA.pdf
+    └── 03-generative-ai-for-everyone/
+        ├── GENERATIVE_AI_FOR_EVERYONE_APOSTILA.md
+        └── GENERATIVE_AI_FOR_EVERYONE_APOSTILA.pdf
 ```
 
-## 🛠 Como contribuir
+## 🚀 Publicar no GitHub
 
-Correções de português, sugestões de analogias, melhorias de acessibilidade e exercícios originais são bem-vindos. Ao propor alterações:
+1. Crie um repositório GitHub, por exemplo `ia-para-todos`.
+2. Extraia o ZIP e envie os arquivos **na raiz** do repositório.
+3. O GitHub exibirá este `README.md` automaticamente.
+4. Os links para Markdown e PDF funcionarão porque são **relativos à estrutura de pastas** — não precisam do nome da conta.
 
-- use linguagem clara, amigável para quem nunca estudou IA;
-- identifique quando um exemplo é hipotético;
-- diferencie conteúdo do curso e complementos modernos;
-- não adicione slides, capturas, vídeos ou transcrições integrais sem autorização;
-- preserve as fontes e a licença aplicável.
+## 🤝 Como contribuir
 
-## 🔖 Fontes e direitos autorais
+Correções, exemplos novos e melhorias de clareza são bem-vindos. Ao abrir uma contribuição, preserve o objetivo de acessibilidade, diferencie exemplos inventados de fatos, verifique referências e **não envie informações internas de empresas, dados pessoais, senhas, códigos sigilosos ou transcrições integrais de cursos**.
 
-O conteúdo é uma explicação original de estudo, baseada no [curso AI for Everyone](https://www.deeplearning.ai/courses/ai-for-everyone), de **Andrew Ng / DeepLearning.AI**, e em transcrição/anotações e slides fornecidos para a elaboração. A DeepLearning.AI informa que os **slides do curso** são disponibilizados sob condições de licença [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/) para fins educacionais, com atribuição. **Os slides e as transcrições originais não estão incluídos neste repositório.**
+## 📜 Referências e licença
 
-Esta apostila é distribuída sob **[CC BY-SA 2.0](LICENSE.md)**. Marcas e conteúdos de terceiros continuam pertencendo a seus respectivos titulares. O repositório não é afiliado à DeepLearning.AI.
+Veja os links oficiais dos três cursos acima. A licença da produção didática original e a ressalva sobre direitos de terceiros estão em [`LICENSE.md`](LICENSE.md). **A licença do texto desta biblioteca não autoriza redistribuição de conteúdo original protegido dos cursos.**
 
 ---
 
-**Estude, experimente, questione.** O melhor uso de IA começa por boas perguntas — não por sair instalando ferramentas. 🚀
+**Aprender IA não é decorar siglas: é fazer perguntas melhores, testar respostas e criar valor com responsabilidade.**
